@@ -1,5 +1,5 @@
 #!/bin/bash
-#a script to test the internet speed that is best ran every 24 hours so ensure that you are getting the exptected speeds.
+#a script to test the internet speed that is best ran every 24 hours so ensure that you are getting the expected speeds.
 
 #create file with date as the name
 touch temp$(date +"%d-%m-%y").txt
